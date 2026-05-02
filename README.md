@@ -31,6 +31,9 @@ Aima Jahangir (FA23-BSE-043)
 ## 📸 Screenshots
 All screecshots are added to a proper documented word file.
 
+## Original Project Credit
+Based on "Machine Learning with Text in scikit-learn" tutorial by Kevin Markham
+
 ## 🚀 How to Run Locally
 ```bash
 pip install -r requirements.txt
